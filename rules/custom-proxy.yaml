@@ -1,0 +1,4 @@
+# WEPC / Default-Direct — 人工代理域名
+# 补充 Loyalsoldier gfw 未覆盖、但明确需要经 Melbourne WEPC 代理的域名。
+# 未匹配的流量最终由 MATCH,DIRECT 直连。
+payload: []

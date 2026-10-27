@@ -1,0 +1,4 @@
+# WEPC / Default-Direct — 人工拒绝域名
+# 仅用于明确需要阻断的域名；广告规则由 Loyalsoldier reject 单独管理。
+# 优先级：本地基础设施及 Jump 规则之后，其余人工规则之前。
+payload: []
